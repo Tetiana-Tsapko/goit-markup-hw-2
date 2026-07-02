@@ -1,5 +1,5 @@
 .team {
-  background-color: #ffffff;
+  background-color: #f4f4fd;
 }
 .team-title {
   font-weight: 700;
@@ -11,14 +11,15 @@
 .team-list {
 }
 .team-list-item {
+  background-color: #ffffff;
+  letter-spacing: 0.02em;
 }
 .team-list-image {
 }
 .team-list-name {
-  background-color: #ffffff;
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2
+  line-height: 1.2;
   text-align: center;
   color: #2e2f42;
 }
